@@ -20,7 +20,7 @@
     "react-hot-toast": "^2.1.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^15.0.0",
+    "@commitlint/cli": "^17.6.6",
     "@commitlint/config-conventional": "^15.0.0",
     "@types/react": "^17.0.37",
     "autoprefixer": "^10.4.0",
